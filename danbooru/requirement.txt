@@ -1,2 +1,8 @@
-lxml
 beautifulsoup4
+certifi
+chardet
+idna
+lxml
+requests
+soupsieve
+urllib3

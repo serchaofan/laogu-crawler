@@ -1,4 +1,4 @@
 # laogu-crawler
 Python爬虫demo
 
-* [Danbooru爬取](./danbooru)
+* [Danbooru/Yandere/Konachan爬取](./danbooru)
